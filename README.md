@@ -1,4 +1,4 @@
 # demo
 this is my first repository 
 
-Author: tayde karan 
+Author: tayde karan shamrav 
